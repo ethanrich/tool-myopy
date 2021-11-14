@@ -1,0 +1,6 @@
+README.md
+setup.py
+tool_myopy.egg-info/PKG-INFO
+tool_myopy.egg-info/SOURCES.txt
+tool_myopy.egg-info/dependency_links.txt
+tool_myopy.egg-info/top_level.txt
